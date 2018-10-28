@@ -105,3 +105,4 @@ venv.bak/
 chromedriver
 *.xml
 *.iml
+googlePlayStoreReview.csv
